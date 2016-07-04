@@ -12,3 +12,8 @@ logInFail::~logInFail()
 {
     delete ui;
 }
+
+void logInFail::on_closeLIF_clicked()
+{
+    close();
+}

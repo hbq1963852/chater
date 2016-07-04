@@ -15,6 +15,9 @@ public:
     explicit logInFail(QWidget *parent = 0);
     ~logInFail();
 
+private slots:
+    void on_closeLIF_clicked();
+
 private:
     Ui::logInFail *ui;
 };
