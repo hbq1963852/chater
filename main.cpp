@@ -11,6 +11,8 @@ int main(int argc, char *argv[])
     w.setWindowFlags(Qt::FramelessWindowHint);
     w.show();
     w.show();
+    dakldnajkdnjkandjkandkjandkjandjkas;
+    asnkjdajskdajkdjkasjkdas;
 
     return a.exec();
 }
